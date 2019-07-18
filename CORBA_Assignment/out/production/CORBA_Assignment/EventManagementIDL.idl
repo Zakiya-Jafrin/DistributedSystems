@@ -1,0 +1,31 @@
+module EventManagementIDLApp
+{
+	typedef sequence<string> ResultList;
+//	struct KeyVal {
+//        string key;
+//        long value;
+//    };
+//
+//    typedef sequence<string> KeyValSeq;
+
+	interface EventManagementIDL
+	{
+	    boolean addEvent(in string managerID, in string eventID, in string eventType, in long bookingCapacity);
+	    boolean removeEvent(in string managerID, in string eventID, in string eventType);
+        ResultList listEventAvailability(in string managerID, in string eventType);
+
+	    ResultList bookEvent(in string customerId, in string eventId, in string eventType);
+	    ResultList cancelEvent(in string customerId, in string eventId);
+	    ResultList getBookingSchedule(in string customerId);
+	    ResultList swapEvent (in string customerId, in string newEventId, in string newEventType, in string oldEventId, in string oldEventType);
+//
+//	    //Manager actions
+//	    boolean AddEvent(in string eventID, in string eventtype, in long bookingCapacity);
+//	    boolean RemoveEvent(in string eventID, in string eventtype);
+//	    ResultList ListEventAvailability(in string eventtype);
+
+	    //adding users
+//	    boolean AddUser(in string ID);
+		oneway void shutdown();
+	};
+};

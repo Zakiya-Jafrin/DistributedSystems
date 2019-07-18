@@ -1,0 +1,188 @@
+07/07/2019 04:09:49.558 - [INFO] - MTL UDP Server Started............
+07/07/2019 04:11:30.860 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM9087, MTLA090619, CONFERENCE, 2]; STATUS[true]; SERVER_MESSAGE[MTLA090619 Added.]
+07/07/2019 04:11:47.012 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM9087, MTLA080619, TRADESHOW, 2]; STATUS[true]; SERVER_MESSAGE[MTLA080619 Added.]
+07/07/2019 04:12:06.386 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM9087, MTLE230719, SEMINAR, 1]; STATUS[true]; SERVER_MESSAGE[MTLE230719 Added.]
+07/07/2019 04:12:32.170 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 04:12:56.618 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 04:12:56.639 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLA090619, customerId=TORC1234, eventType=CONFERENCE}]
+07/07/2019 04:13:16.809 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 04:13:16.820 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLA080619, customerId=TORC1234, eventType=TRADESHOW}]
+07/07/2019 04:13:36.476 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 04:14:17.190 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 04:14:17.201 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLE230719, customerId=TORC1234, eventType=SEMINAR}]
+07/07/2019 04:14:17.203 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLE230719, customerId=TORC1234, eventType=SEMINAR}]
+07/07/2019 04:14:17.205 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLE230719, customerId=TORC1234, eventType=SEMINAR}]
+07/07/2019 04:15:24.268 - [INFO] - Received UDP Socket call for method[listEventAvailability] with parameters[SEMINAR]
+07/07/2019 04:29:26.088 - [INFO] - MTL UDP Server Started............
+07/07/2019 04:31:23.544 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM9087, MTLA090619, CONFERENCE, 2]; STATUS[true]; SERVER_MESSAGE[MTLA090619 Added.]
+07/07/2019 04:31:39.916 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM9087, MTLA080619, TRADESHOW, 2]; STATUS[true]; SERVER_MESSAGE[MTLA080619 Added.]
+07/07/2019 04:31:55.027 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM9087, MTLE230719, SEMINAR, 1]; STATUS[true]; SERVER_MESSAGE[MTLE230719 Added.]
+07/07/2019 04:32:16.198 - [INFO] - Received UDP Socket call for method[listEventAvailability] with parameters[SEMINAR]
+07/07/2019 04:33:00.608 - [INFO] - Received UDP Socket call for method[listEventAvailability] with parameters[SEMINAR]
+07/07/2019 04:33:06.745 - [INFO] - Received UDP Socket call for method[listEventAvailability] with parameters[CONFERENCE]
+07/07/2019 04:33:19.072 - [INFO] - Received UDP Socket call for method[listEventAvailability] with parameters[TRADESHOW]
+07/07/2019 04:34:35.587 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 04:34:51.161 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 04:34:51.175 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLA090619, customerId=TORC1234, eventType=CONFERENCE}]
+07/07/2019 04:35:15.419 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 04:35:15.432 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLA080619, customerId=TORC1234, eventType=TRADESHOW}]
+07/07/2019 04:35:57.843 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 04:37:03.732 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 04:37:27.759 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 04:42:50.907 - [INFO] - MTL UDP Server Started............
+07/07/2019 04:45:23.751 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM9087, MTLA090619, CONFERENCE, 2]; STATUS[true]; SERVER_MESSAGE[MTLA090619 Added.]
+07/07/2019 04:45:47.434 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM9087, MTLA080619, TRADESHOW, 2]; STATUS[true]; SERVER_MESSAGE[MTLA080619 Added.]
+07/07/2019 04:46:10.251 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM9087, MTLW230719, SEMINAR, 1]; STATUS[true]; SERVER_MESSAGE[MTLW230719 Added.]
+07/07/2019 04:46:49.266 - [INFO] - Received UDP Socket call for method[listEventAvailability] with parameters[SEMINAR]
+07/07/2019 04:47:01.055 - [INFO] - Received UDP Socket call for method[listEventAvailability] with parameters[CONFERENCE]
+07/07/2019 04:47:10.842 - [INFO] - Received UDP Socket call for method[listEventAvailability] with parameters[TRADESHOW]
+07/07/2019 04:48:25.419 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 04:49:04.878 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 04:49:21.789 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 04:49:21.807 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLA090619, customerId=TORC1234, eventType=CONFERENCE}]
+07/07/2019 04:49:39.992 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 04:49:40.008 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLA080619, customerId=TORC1234, eventType=TRADESHOW}]
+07/07/2019 04:49:59.202 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 04:50:20.777 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 04:50:20.791 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLE230719, customerId=TORC1234, eventType=SEMINAR}]
+07/07/2019 04:50:20.797 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLE230719, customerId=TORC1234, eventType=SEMINAR}]
+07/07/2019 04:50:20.799 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLE230719, customerId=TORC1234, eventType=SEMINAR}]
+07/07/2019 04:51:23.751 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 04:51:23.759 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLW230719, customerId=TORC1234, eventType=SEMINAR}]
+07/07/2019 04:51:23.765 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLW230719, customerId=TORC1234, eventType=SEMINAR}]
+07/07/2019 04:51:23.769 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLW230719, customerId=TORC1234, eventType=SEMINAR}]
+07/07/2019 04:51:49.381 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 04:52:30.948 - [INFO] - Received UDP Socket call for method[listEventAvailability] with parameters[SEMINAR]
+07/07/2019 04:56:40.342 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 04:56:40.354 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLW230719, customerId=TORC1234, eventType=SEMINAR}]
+07/07/2019 04:56:40.359 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLW230719, customerId=TORC1234, eventType=SEMINAR}]
+07/07/2019 04:56:40.365 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLW230719, customerId=TORC1234, eventType=SEMINAR}]
+07/07/2019 04:58:28.600 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 04:58:28.612 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLW230719, customerId=TORC1234, eventType=SEMINAR}]
+07/07/2019 04:58:28.615 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLW230719, customerId=TORC1234, eventType=SEMINAR}]
+07/07/2019 04:58:28.617 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLW230719, customerId=TORC1234, eventType=SEMINAR}]
+07/07/2019 05:14:13.928 - [INFO] - MTL UDP Server Started............
+07/07/2019 05:16:00.867 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM9087, MTLA090619, CONFERENCE, 2]; STATUS[true]; SERVER_MESSAGE[MTLA090619 Added.]
+07/07/2019 05:16:22.987 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM9087, MTLA080619, TRADESHOW, 2]; STATUS[true]; SERVER_MESSAGE[MTLA080619 Added.]
+07/07/2019 05:16:52.600 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM9087, MTLE230719, SEMINAR, 1]; STATUS[true]; SERVER_MESSAGE[MTLE230719 Added.]
+07/07/2019 05:17:33.915 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 05:17:50.638 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 05:17:50.654 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLA090619, customerId=TORC1234, eventType=CONFERENCE}]
+07/07/2019 05:18:03.785 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 05:18:03.799 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLA080619, customerId=TORC1234, eventType=TRADESHOW}]
+07/07/2019 05:18:52.042 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 05:19:27.681 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 05:19:27.696 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLE230719, customerId=TORC1234, eventType=SEMINAR}]
+07/07/2019 05:19:27.698 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLE230719, customerId=TORC1234, eventType=SEMINAR}]
+07/07/2019 05:19:27.700 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLE230719, customerId=TORC1234, eventType=SEMINAR}]
+07/07/2019 06:03:18.090 - [INFO] - MTL UDP Server Started............
+07/07/2019 06:05:58.531 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM9087, MTLA090619, CONFERENCE, 2]; STATUS[true]; SERVER_MESSAGE[MTLA090619 Added.]
+07/07/2019 06:06:28.044 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM9087, MTLA080619, TRADESHOW, 2]; STATUS[true]; SERVER_MESSAGE[MTLA080619 Added.]
+07/07/2019 06:07:02.796 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM9087, MTLE230719, SEMINAR, 1]; STATUS[true]; SERVER_MESSAGE[MTLE230719 Added.]
+07/07/2019 06:09:05.352 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 06:09:38.498 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 06:09:38.517 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLA090619, customerId=TORC1234, eventType=CONFERENCE}]
+07/07/2019 06:10:20.901 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 06:10:20.911 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLA080619, customerId=TORC1234, eventType=TRADESHOW}]
+07/07/2019 06:10:53.206 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 06:11:24.343 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 06:11:24.351 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLE230719, customerId=TORC1234, eventType=SEMINAR}]
+07/07/2019 06:11:24.355 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLE230719, customerId=TORC1234, eventType=SEMINAR}]
+07/07/2019 06:11:24.358 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLE230719, customerId=TORC1234, eventType=SEMINAR}]
+07/07/2019 06:11:32.399 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+07/07/2019 06:11:57.220 - [INFO] - Received UDP Socket call for method[cancelEvent] with parameters[{eventId=MTLE230719, customerId=TORC1234}]
+07/07/2019 06:12:12.995 - [INFO] - Received UDP Socket call for method[cancelEvent] with parameters[{eventId=MTLE230719, customerId=TORC1234}]
+07/07/2019 06:12:54.561 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+08/07/2019 11:16:40.034 - [INFO] - MTL UDP Server Started............
+08/07/2019 11:17:23.601 - [INFO] - Received UDP Socket call for method[listEventAvailability] with parameters[SEMINAR]
+08/07/2019 11:19:32.688 - [INFO] - Making UPD Socket Call to TOR Server for method : listEventAvailability
+08/07/2019 11:20:01.950 - [INFO] - MTL UDP Server Started............
+08/07/2019 11:21:41.605 - [INFO] - Received UDP Socket call for method[listEventAvailability] with parameters[CONFERENCE]
+08/07/2019 11:22:01.332 - [INFO] - Received UDP Socket call for method[listEventAvailability] with parameters[SEMINAR]
+08/07/2019 11:52:42.691 - [INFO] - MTL UDP Server Started............
+08/07/2019 11:58:56.972 - [INFO] - Received UDP Socket call for method[listEventAvailability] with parameters[SEMINAR]
+09/07/2019 01:20:00.548 - [INFO] - MTL UDP Server Started............
+09/07/2019 01:22:01.415 - [INFO] - Received UDP Socket call for method[listEventAvailability] with parameters[SEMINAR]
+09/07/2019 01:23:06.550 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[OTWC1234]
+09/07/2019 01:24:30.218 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+09/07/2019 01:25:05.466 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+09/07/2019 01:26:10.610 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+09/07/2019 01:28:50.600 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+09/07/2019 01:30:59.082 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+09/07/2019 01:39:04.304 - [INFO] - MTL UDP Server Started............
+09/07/2019 01:42:32.708 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[OTWC1234]
+09/07/2019 01:46:25.198 - [INFO] - MTL UDP Server Started............
+09/07/2019 01:50:21.553 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[OTWC1234]
+09/07/2019 01:51:04.447 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[OTWC1234]
+09/07/2019 01:51:30.844 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[OTWC1234]
+09/07/2019 01:51:56.735 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[OTWC1234]
+09/07/2019 01:53:20.220 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[OTWC1234]
+09/07/2019 01:57:47.022 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[OTWC1234]
+09/07/2019 06:41:52.075 - [INFO] - MTL UDP Server Started............
+09/07/2019 06:44:02.818 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM9087, MTLA090619, CONFERENCE, 2]; STATUS[true]; SERVER_MESSAGE[MTLA090619 Added.]
+09/07/2019 06:45:03.317 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM9087, MTLA080619, TRADESHOW, 2]; STATUS[true]; SERVER_MESSAGE[MTLA080619 Added.]
+09/07/2019 06:45:38.682 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM9087, MTLE230719, SEMINAR, 1]; STATUS[true]; SERVER_MESSAGE[MTLE230719 Added.]
+09/07/2019 06:46:06.286 - [INFO] - Received UDP Socket call for method[listEventAvailability] with parameters[SEMINAR]
+09/07/2019 06:46:16.002 - [INFO] - Received UDP Socket call for method[listEventAvailability] with parameters[CONFERENCE]
+09/07/2019 06:46:25.845 - [INFO] - Received UDP Socket call for method[listEventAvailability] with parameters[TRADESHOW]
+09/07/2019 06:47:08.286 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+09/07/2019 06:47:38.930 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+09/07/2019 06:47:38.949 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLA080619, customerId=TORC1234, eventType=TRADESHOW}]
+09/07/2019 06:47:57.374 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+09/07/2019 06:47:57.386 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLA090619, customerId=TORC1234, eventType=CONFERENCE}]
+09/07/2019 06:48:28.294 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+09/07/2019 06:48:46.677 - [INFO] - Received UDP Socket call for method[listEventAvailability] with parameters[SEMINAR]
+09/07/2019 06:48:54.950 - [INFO] - Received UDP Socket call for method[listEventAvailability] with parameters[CONFERENCE]
+09/07/2019 06:49:28.162 - [INFO] - Received UDP Socket call for method[listEventAvailability] with parameters[TRADESHOW]
+09/07/2019 06:50:29.482 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+09/07/2019 06:50:29.499 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLE230719, customerId=TORC1234, eventType=SEMINAR}]
+09/07/2019 06:50:40.538 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+09/07/2019 06:50:55.217 - [INFO] - Received UDP Socket call for method[listEventAvailability] with parameters[SEMINAR]
+09/07/2019 06:52:40.612 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+09/07/2019 06:52:40.626 - [INFO] - Received UDP Socket call for method[bookEvent] with parameters[{eventId=MTLA060619, customerId=TORC1234, eventType=TRADESHOW}]
+09/07/2019 07:14:38.478 - [INFO] - Making UPD Socket Call to TOR Server for method : listEventAvailability
+09/07/2019 07:14:38.504 - [INFO] - Making UPD Socket Call to OTW Server for method : listEventAvailability
+09/07/2019 07:14:38.511 - [INFO] - METHOD[listEventAvailability]; PARAMETERS[MTLM9087, TRADESHOW]; STATUS[true]; SERVER_MESSAGE[{MTLA080619=1}]
+09/07/2019 07:15:02.708 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM9087, MTLA080619, TRADESHOW, 2]; STATUS[false]; SERVER_MESSAGE[Event already exists for TRADESHOW eventType.]
+09/07/2019 10:00:08.303 - [INFO] - MTL UDP Server Started............
+09/07/2019 10:00:33.982 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM1234, MTLA123456, SEMINAR, 1]; STATUS[true]; SERVER_MESSAGE[MTLA123456 Added.]
+09/07/2019 10:00:45.504 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM1234, MTLA123456, SEMINAR, 3]; STATUS[false]; SERVER_MESSAGE[Event already exists for SEMINAR eventType.]
+09/07/2019 10:01:01.838 - [INFO] - Making UPD Socket Call to TOR Server for method : listEventAvailability
+09/07/2019 10:01:01.873 - [INFO] - Making UPD Socket Call to OTW Server for method : listEventAvailability
+09/07/2019 10:01:01.885 - [INFO] - METHOD[listEventAvailability]; PARAMETERS[MTLM1234, SEMINAR]; STATUS[true]; SERVER_MESSAGE[{MTLA123456=1}]
+09/07/2019 10:04:14.853 - [INFO] - MTL UDP Server Started............
+09/07/2019 10:05:02.891 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM1234, MTLA123456, SEMINAR, 1]; STATUS[true]; SERVER_MESSAGE[MTLA123456 Added.]
+09/07/2019 10:05:23.566 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM1234, MTLA123456, SEMINAR, 3]; STATUS[false]; SERVER_MESSAGE[Event already exists for SEMINAR eventType. Capacity Updated]
+09/07/2019 10:08:13.719 - [INFO] - MTL UDP Server Started............
+09/07/2019 10:08:30.854 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM1234, MTLA123456, SEMINAR, 1]; STATUS[true]; SERVER_MESSAGE[MTLA123456 Added.]
+09/07/2019 10:08:34.964 - [INFO] - Making UPD Socket Call to TOR Server for method : listEventAvailability
+09/07/2019 10:08:34.999 - [INFO] - Making UPD Socket Call to OTW Server for method : listEventAvailability
+09/07/2019 10:08:35.013 - [INFO] - METHOD[listEventAvailability]; PARAMETERS[MTLM1234, SEMINAR]; STATUS[true]; SERVER_MESSAGE[{MTLA123456=1}]
+09/07/2019 10:11:13.619 - [INFO] - MTL UDP Server Started............
+09/07/2019 10:11:28.596 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM1234, MTLA123456, SEMINAR, 1]; STATUS[true]; SERVER_MESSAGE[MTLA123456 Added.]
+09/07/2019 10:11:40.310 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM1234, MTLA123456, SEMINAR, 3]; STATUS[true]; SERVER_MESSAGE[Event already exists for SEMINAR eventType. Capacity Updated]
+09/07/2019 10:15:37.681 - [INFO] - MTL UDP Server Started............
+09/07/2019 10:16:02.915 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM1234, MTLA123456, SEMINAR, 1]; STATUS[true]; SERVER_MESSAGE[MTLA123456 Added.]
+09/07/2019 10:16:43.895 - [INFO] - Making UPD Socket Call to TOR Server for method : listEventAvailability
+09/07/2019 10:17:04.996 - [INFO] - MTL UDP Server Started............
+09/07/2019 10:17:19.055 - [INFO] - Making UPD Socket Call to TOR Server for method : listEventAvailability
+09/07/2019 10:17:19.086 - [INFO] - Making UPD Socket Call to OTW Server for method : listEventAvailability
+09/07/2019 10:17:19.100 - [INFO] - METHOD[listEventAvailability]; PARAMETERS[MTLM1234, SEMINAR]; STATUS[true]; SERVER_MESSAGE[{}]
+09/07/2019 10:17:37.184 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM1234, MTLA123456, SEMINAR, 1]; STATUS[true]; SERVER_MESSAGE[MTLA123456 Added.]
+09/07/2019 10:17:52.692 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM1234, MTLE123456, SEMINAR, 2]; STATUS[true]; SERVER_MESSAGE[MTLE123456 Added.]
+09/07/2019 10:17:56.650 - [INFO] - Making UPD Socket Call to TOR Server for method : listEventAvailability
+09/07/2019 10:17:56.656 - [INFO] - Making UPD Socket Call to OTW Server for method : listEventAvailability
+09/07/2019 10:17:56.658 - [INFO] - METHOD[listEventAvailability]; PARAMETERS[MTLM1234, SEMINAR]; STATUS[true]; SERVER_MESSAGE[{MTLA123456=1, MTLE123456=2}]
+09/07/2019 10:18:11.594 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM1234, MTLA123456, SEMINAR, 3]; STATUS[true]; SERVER_MESSAGE[Event already exists for SEMINAR eventType. Capacity Updated]
+09/07/2019 10:18:19.451 - [INFO] - Making UPD Socket Call to TOR Server for method : listEventAvailability
+09/07/2019 10:18:19.455 - [INFO] - Making UPD Socket Call to OTW Server for method : listEventAvailability
+09/07/2019 10:18:19.457 - [INFO] - METHOD[listEventAvailability]; PARAMETERS[MTLM1234, SEMINAR]; STATUS[true]; SERVER_MESSAGE[{MTLA123456=3, MTLE123456=2}]
+09/07/2019 10:19:17.238 - [INFO] - MTL UDP Server Started............
+09/07/2019 10:21:09.460 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM1234, MTLA123456, SEMINAR, 1]; STATUS[true]; SERVER_MESSAGE[MTLA123456 Added.]
+09/07/2019 10:22:27.953 - [INFO] - Making UPD Socket Call to TOR Server for method : listEventAvailability
+09/07/2019 10:22:27.999 - [INFO] - Making UPD Socket Call to OTW Server for method : listEventAvailability
+09/07/2019 10:22:28.019 - [INFO] - METHOD[listEventAvailability]; PARAMETERS[MTLM1234, SEMINAR]; STATUS[true]; SERVER_MESSAGE[{MTLA123456=1}]
+09/07/2019 10:22:42.470 - [INFO] - METHOD[addEvent]; PARAMETERS[MTLM1234, MTLA123456, SEMINAR, 3]; STATUS[false]; SERVER_MESSAGE[Event already exists for SEMINAR eventType. Capacity Updated]
+09/07/2019 10:22:52.625 - [INFO] - Making UPD Socket Call to TOR Server for method : listEventAvailability
+09/07/2019 10:22:52.628 - [INFO] - Making UPD Socket Call to OTW Server for method : listEventAvailability
+09/07/2019 10:22:52.632 - [INFO] - METHOD[listEventAvailability]; PARAMETERS[MTLM1234, SEMINAR]; STATUS[true]; SERVER_MESSAGE[{MTLA123456=3}]

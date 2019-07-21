@@ -1,0 +1,185 @@
+18/07/2019 11:16:41.141 - [INFO] - OTW UDP Server Started............
+18/07/2019 11:18:16.434 - [INFO] - OTW UDP Server Started............
+18/07/2019 11:20:47.221 - [INFO] - OTW UDP Server Started............
+18/07/2019 11:22:04.930 - [INFO] - OTW UDP Server Started............
+18/07/2019 11:23:04.238 - [INFO] - OTW UDP Server Started............
+18/07/2019 11:23:35.623 - [INFO] - Received UDP Socket call for method[listEventAvailability] with parameters[SEMINAR]
+18/07/2019 11:23:35.623 - [INFO] - {}
+18/07/2019 11:24:39.601 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+20/07/2019 12:41:28.822 - [INFO] - OTW UDP Server Started............
+20/07/2019 12:42:21.405 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[MTLC1234]
+20/07/2019 12:42:24.565 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[MTLC1234]
+20/07/2019 12:44:03.481 - [INFO] - OTW UDP Server Started............
+20/07/2019 12:44:42.147 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+20/07/2019 12:44:46.410 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+20/07/2019 12:48:12.586 - [INFO] - Received UDP Socket call for method[listEventAvailability] with parameters[SEMINAR]
+20/07/2019 12:48:12.587 - [INFO] - {}
+20/07/2019 12:48:35.597 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+20/07/2019 12:48:46.486 - [INFO] - Received UDP Socket call for method[listEventAvailability] with parameters[SEMINAR]
+20/07/2019 12:48:46.487 - [INFO] - {}
+20/07/2019 12:54:35.392 - [INFO] - OTW UDP Server Started............
+20/07/2019 01:08:57.048 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+20/07/2019 01:09:00.181 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+20/07/2019 09:10:28.092 - [INFO] - OTW UDP Server Started............
+20/07/2019 09:10:42.127 - [INFO] - Making UPD Socket Call to MTL Server for method : getBookingSchedule
+20/07/2019 09:10:42.127 - [INFO] - Making UPD Socket Call to MTL Server for method : getBookingSchedule
+20/07/2019 09:10:42.127 - [INFO] - Making UPD Socket Call to MTL Server for method : getBookingSchedule
+20/07/2019 09:10:42.168 - [INFO] - Making UPD Socket Call to TOR Server for method : getBookingSchedule
+20/07/2019 09:10:42.168 - [INFO] - Making UPD Socket Call to TOR Server for method : getBookingSchedule
+20/07/2019 09:10:42.168 - [INFO] - Making UPD Socket Call to TOR Server for method : getBookingSchedule
+20/07/2019 09:10:42.187 - [INFO] - METHOD[getBookingSchedule]; PARAMETERS[OTWC1234]; STATUS[true]; SERVER_MESSAGE[{}]
+20/07/2019 09:10:42.187 - [INFO] - METHOD[getBookingSchedule]; PARAMETERS[OTWC1234]; STATUS[true]; SERVER_MESSAGE[{}]
+20/07/2019 09:10:42.187 - [INFO] - METHOD[getBookingSchedule]; PARAMETERS[OTWC1234]; STATUS[true]; SERVER_MESSAGE[{}]
+20/07/2019 09:10:42.192 - [INFO] - Making UPD Socket Call to TOR Server for method : bookEvent
+20/07/2019 09:10:42.192 - [INFO] - Making UPD Socket Call to TOR Server for method : bookEvent
+20/07/2019 09:10:42.192 - [INFO] - Making UPD Socket Call to TOR Server for method : bookEvent
+20/07/2019 09:10:42.200 - [INFO] - METHOD[bookEvent]; PARAMETERS[OTWC1234, TORE110619, SEMINAR]; STATUS[false]; SERVER_MESSAGE[No events available for SEMINAR eventType.]
+20/07/2019 09:10:42.200 - [INFO] - METHOD[bookEvent]; PARAMETERS[OTWC1234, TORE110619, SEMINAR]; STATUS[false]; SERVER_MESSAGE[No events available for SEMINAR eventType.]
+20/07/2019 09:10:42.200 - [INFO] - METHOD[bookEvent]; PARAMETERS[OTWC1234, TORE110619, SEMINAR]; STATUS[false]; SERVER_MESSAGE[No events available for SEMINAR eventType.]
+20/07/2019 09:12:25.961 - [INFO] - Making UPD Socket Call to MTL Server for method : getBookingSchedule
+20/07/2019 09:12:25.961 - [INFO] - Making UPD Socket Call to MTL Server for method : getBookingSchedule
+20/07/2019 09:12:25.961 - [INFO] - Making UPD Socket Call to MTL Server for method : getBookingSchedule
+20/07/2019 09:12:25.964 - [INFO] - Making UPD Socket Call to TOR Server for method : getBookingSchedule
+20/07/2019 09:12:25.964 - [INFO] - Making UPD Socket Call to TOR Server for method : getBookingSchedule
+20/07/2019 09:12:25.965 - [INFO] - Making UPD Socket Call to TOR Server for method : getBookingSchedule
+20/07/2019 09:12:25.967 - [INFO] - METHOD[getBookingSchedule]; PARAMETERS[OTWC1234]; STATUS[true]; SERVER_MESSAGE[{}]
+20/07/2019 09:12:25.967 - [INFO] - Making UPD Socket Call to TOR Server for method : bookEvent
+20/07/2019 09:12:25.968 - [INFO] - METHOD[getBookingSchedule]; PARAMETERS[OTWC1234]; STATUS[true]; SERVER_MESSAGE[{}]
+20/07/2019 09:12:25.968 - [INFO] - Making UPD Socket Call to TOR Server for method : bookEvent
+20/07/2019 09:12:25.968 - [INFO] - METHOD[getBookingSchedule]; PARAMETERS[OTWC1234]; STATUS[true]; SERVER_MESSAGE[{}]
+20/07/2019 09:12:25.969 - [INFO] - Making UPD Socket Call to TOR Server for method : bookEvent
+20/07/2019 09:12:25.969 - [INFO] - METHOD[bookEvent]; PARAMETERS[OTWC1234, TORE110619, SEMINAR]; STATUS[false]; SERVER_MESSAGE[TORE110619 is not offered in SEMINAR eventType.]
+20/07/2019 09:12:25.971 - [INFO] - METHOD[bookEvent]; PARAMETERS[OTWC1234, TORE110619, SEMINAR]; STATUS[false]; SERVER_MESSAGE[TORE110619 is not offered in SEMINAR eventType.]
+20/07/2019 09:12:25.972 - [INFO] - METHOD[bookEvent]; PARAMETERS[OTWC1234, TORE110619, SEMINAR]; STATUS[false]; SERVER_MESSAGE[TORE110619 is not offered in SEMINAR eventType.]
+20/07/2019 09:15:13.067 - [INFO] - OTW UDP Server Started............
+20/07/2019 09:15:21.551 - [INFO] - Making UPD Socket Call to MTL Server for method : getBookingSchedule
+20/07/2019 09:15:21.552 - [INFO] - Making UPD Socket Call to MTL Server for method : getBookingSchedule
+20/07/2019 09:15:21.551 - [INFO] - Making UPD Socket Call to MTL Server for method : getBookingSchedule
+20/07/2019 09:15:21.572 - [INFO] - Making UPD Socket Call to TOR Server for method : getBookingSchedule
+20/07/2019 09:15:21.572 - [INFO] - Making UPD Socket Call to TOR Server for method : getBookingSchedule
+20/07/2019 09:15:21.572 - [INFO] - Making UPD Socket Call to TOR Server for method : getBookingSchedule
+20/07/2019 09:15:21.584 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[MTLC1234]
+20/07/2019 09:15:21.584 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[MTLC1234]
+20/07/2019 09:15:21.586 - [INFO] - METHOD[getBookingSchedule]; PARAMETERS[OTWC1234]; STATUS[true]; SERVER_MESSAGE[{}]
+20/07/2019 09:15:21.586 - [INFO] - METHOD[getBookingSchedule]; PARAMETERS[OTWC1234]; STATUS[true]; SERVER_MESSAGE[{}]
+20/07/2019 09:15:21.588 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+20/07/2019 09:15:21.589 - [INFO] - Making UPD Socket Call to TOR Server for method : bookEvent
+20/07/2019 09:15:21.590 - [INFO] - Making UPD Socket Call to TOR Server for method : bookEvent
+20/07/2019 09:15:21.590 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+20/07/2019 09:15:21.591 - [INFO] - METHOD[getBookingSchedule]; PARAMETERS[OTWC1234]; STATUS[true]; SERVER_MESSAGE[{}]
+20/07/2019 09:15:21.591 - [INFO] - Making UPD Socket Call to TOR Server for method : bookEvent
+20/07/2019 09:15:21.594 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+20/07/2019 09:15:21.595 - [INFO] - METHOD[bookEvent]; PARAMETERS[OTWC1234, TORE110619, SEMINAR]; STATUS[false]; SERVER_MESSAGE[No events available for SEMINAR eventType.]
+20/07/2019 09:15:21.597 - [INFO] - METHOD[bookEvent]; PARAMETERS[OTWC1234, TORE110619, SEMINAR]; STATUS[false]; SERVER_MESSAGE[No events available for SEMINAR eventType.]
+20/07/2019 09:15:21.600 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[MTLC1234]
+20/07/2019 09:15:21.601 - [INFO] - METHOD[bookEvent]; PARAMETERS[OTWC1234, TORE110619, SEMINAR]; STATUS[false]; SERVER_MESSAGE[No events available for SEMINAR eventType.]
+21/07/2019 08:49:06.505 - [INFO] - OTW UDP Server Started............
+21/07/2019 08:49:22.071 - [INFO] - Making UPD Socket Call to MTL Server for method : getBookingSchedule
+21/07/2019 08:49:22.071 - [INFO] - Making UPD Socket Call to MTL Server for method : getBookingSchedule
+21/07/2019 08:49:22.072 - [INFO] - Making UPD Socket Call to MTL Server for method : getBookingSchedule
+21/07/2019 08:49:22.093 - [INFO] - Making UPD Socket Call to TOR Server for method : getBookingSchedule
+21/07/2019 08:49:22.093 - [INFO] - Making UPD Socket Call to TOR Server for method : getBookingSchedule
+21/07/2019 08:49:22.093 - [INFO] - Making UPD Socket Call to TOR Server for method : getBookingSchedule
+21/07/2019 08:49:22.106 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[MTLC1234]
+21/07/2019 08:49:22.106 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[MTLC1234]
+21/07/2019 08:49:22.107 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[MTLC1234]
+21/07/2019 08:49:22.109 - [INFO] - METHOD[getBookingSchedule]; PARAMETERS[OTWC1234]; STATUS[true]; SERVER_MESSAGE[{}]
+21/07/2019 08:49:22.110 - [INFO] - METHOD[getBookingSchedule]; PARAMETERS[OTWC1234]; STATUS[true]; SERVER_MESSAGE[{}]
+21/07/2019 08:49:22.111 - [INFO] - METHOD[getBookingSchedule]; PARAMETERS[OTWC1234]; STATUS[true]; SERVER_MESSAGE[{}]
+21/07/2019 08:49:22.114 - [INFO] - Making UPD Socket Call to TOR Server for method : bookEvent
+21/07/2019 08:49:22.115 - [INFO] - Making UPD Socket Call to TOR Server for method : bookEvent
+21/07/2019 08:49:22.114 - [INFO] - Making UPD Socket Call to TOR Server for method : bookEvent
+21/07/2019 08:49:22.123 - [INFO] - METHOD[bookEvent]; PARAMETERS[OTWC1234, TORE110619, SEMINAR]; STATUS[true]; SERVER_MESSAGE[Booking Successful.]
+21/07/2019 08:49:22.124 - [INFO] - METHOD[bookEvent]; PARAMETERS[OTWC1234, TORE110619, SEMINAR]; STATUS[false]; SERVER_MESSAGE[TORE110619 is full.]
+21/07/2019 08:49:22.126 - [INFO] - METHOD[bookEvent]; PARAMETERS[OTWC1234, TORE110619, SEMINAR]; STATUS[false]; SERVER_MESSAGE[TORE110619 is full.]
+21/07/2019 08:49:22.137 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+21/07/2019 08:49:22.138 - [INFO] - Making UPD Socket Call to MTL Server for method : getBookingSchedule
+21/07/2019 08:49:22.140 - [INFO] - Making UPD Socket Call to TOR Server for method : getBookingSchedule
+21/07/2019 08:49:22.146 - [INFO] - METHOD[getBookingSchedule]; PARAMETERS[OTWC1234]; STATUS[true]; SERVER_MESSAGE[{SEMINAR=[TORE110619]}]
+21/07/2019 08:49:22.148 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[MTLC1234]
+21/07/2019 08:49:22.149 - [INFO] - Making UPD Socket Call to MTL Server for method : getBookingSchedule
+21/07/2019 08:49:22.150 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+21/07/2019 08:49:22.152 - [INFO] - Making UPD Socket Call to TOR Server for method : getBookingSchedule
+21/07/2019 08:49:22.153 - [INFO] - Making UPD Socket Call to MTL Server for method : getBookingSchedule
+21/07/2019 08:49:22.155 - [INFO] - Making UPD Socket Call to TOR Server for method : getBookingSchedule
+21/07/2019 08:49:22.157 - [INFO] - METHOD[getBookingSchedule]; PARAMETERS[OTWC1234]; STATUS[true]; SERVER_MESSAGE[{SEMINAR=[TORE110619]}]
+21/07/2019 08:49:22.157 - [INFO] - METHOD[getBookingSchedule]; PARAMETERS[OTWC1234]; STATUS[true]; SERVER_MESSAGE[{SEMINAR=[TORE110619]}]
+21/07/2019 08:49:22.162 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[MTLC1234]
+21/07/2019 08:49:22.164 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[MTLC1234]
+21/07/2019 08:49:22.172 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+21/07/2019 08:49:22.174 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+21/07/2019 08:49:22.181 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+21/07/2019 08:49:22.182 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+21/07/2019 08:50:46.143 - [INFO] - OTW UDP Server Started............
+21/07/2019 08:50:55.675 - [INFO] - Making UPD Socket Call to MTL Server for method : getBookingSchedule
+21/07/2019 08:50:55.682 - [INFO] - Making UPD Socket Call to MTL Server for method : getBookingSchedule
+21/07/2019 08:50:55.695 - [INFO] - Making UPD Socket Call to TOR Server for method : getBookingSchedule
+21/07/2019 08:50:55.695 - [INFO] - Making UPD Socket Call to TOR Server for method : getBookingSchedule
+21/07/2019 08:50:55.699 - [INFO] - Making UPD Socket Call to MTL Server for method : getBookingSchedule
+21/07/2019 08:50:55.701 - [INFO] - Making UPD Socket Call to TOR Server for method : getBookingSchedule
+21/07/2019 08:50:55.704 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[MTLC1234]
+21/07/2019 08:50:55.705 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[MTLC1234]
+21/07/2019 08:50:55.706 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[MTLC1234]
+21/07/2019 08:50:55.707 - [INFO] - METHOD[getBookingSchedule]; PARAMETERS[OTWC1234]; STATUS[true]; SERVER_MESSAGE[{}]
+21/07/2019 08:50:55.707 - [INFO] - METHOD[getBookingSchedule]; PARAMETERS[OTWC1234]; STATUS[true]; SERVER_MESSAGE[{}]
+21/07/2019 08:50:55.707 - [INFO] - METHOD[getBookingSchedule]; PARAMETERS[OTWC1234]; STATUS[true]; SERVER_MESSAGE[{}]
+21/07/2019 08:50:55.711 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+21/07/2019 08:50:55.711 - [INFO] - Making UPD Socket Call to TOR Server for method : bookEvent
+21/07/2019 08:50:55.712 - [INFO] - Making UPD Socket Call to TOR Server for method : bookEvent
+21/07/2019 08:50:55.713 - [INFO] - Making UPD Socket Call to TOR Server for method : bookEvent
+21/07/2019 08:50:55.718 - [INFO] - METHOD[bookEvent]; PARAMETERS[OTWC1234, TORE110619, SEMINAR]; STATUS[false]; SERVER_MESSAGE[TORE110619 is full.]
+21/07/2019 08:50:55.719 - [INFO] - METHOD[bookEvent]; PARAMETERS[OTWC1234, TORE110619, SEMINAR]; STATUS[true]; SERVER_MESSAGE[Booking Successful.]
+21/07/2019 08:50:55.736 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+21/07/2019 08:50:55.736 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+21/07/2019 08:50:55.736 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+21/07/2019 08:50:55.736 - [INFO] - METHOD[bookEvent]; PARAMETERS[OTWC1234, TORE110619, SEMINAR]; STATUS[false]; SERVER_MESSAGE[TORE110619 is full.]
+21/07/2019 08:50:55.741 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[MTLC1234]
+21/07/2019 08:50:55.747 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[MTLC1234]
+21/07/2019 08:50:55.748 - [INFO] - Making UPD Socket Call to MTL Server for method : getBookingSchedule
+21/07/2019 08:50:55.750 - [INFO] - Making UPD Socket Call to TOR Server for method : getBookingSchedule
+21/07/2019 08:50:55.756 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[MTLC1234]
+21/07/2019 08:50:55.758 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+21/07/2019 08:50:55.759 - [INFO] - Making UPD Socket Call to MTL Server for method : getBookingSchedule
+21/07/2019 08:50:55.761 - [INFO] - Making UPD Socket Call to TOR Server for method : getBookingSchedule
+21/07/2019 08:50:55.764 - [INFO] - METHOD[getBookingSchedule]; PARAMETERS[OTWC1234]; STATUS[true]; SERVER_MESSAGE[{SEMINAR=[TORE110619]}]
+21/07/2019 08:50:55.765 - [INFO] - METHOD[getBookingSchedule]; PARAMETERS[OTWC1234]; STATUS[true]; SERVER_MESSAGE[{SEMINAR=[TORE110619]}]
+21/07/2019 08:50:55.768 - [INFO] - Making UPD Socket Call to MTL Server for method : getBookingSchedule
+21/07/2019 08:50:55.770 - [INFO] - Making UPD Socket Call to TOR Server for method : getBookingSchedule
+21/07/2019 08:50:55.772 - [INFO] - METHOD[getBookingSchedule]; PARAMETERS[OTWC1234]; STATUS[true]; SERVER_MESSAGE[{SEMINAR=[TORE110619]}]
+21/07/2019 08:50:55.775 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+21/07/2019 08:51:17.707 - [INFO] - Making UPD Socket Call to MTL Server for method : getBookingSchedule
+21/07/2019 08:51:17.707 - [INFO] - Making UPD Socket Call to MTL Server for method : getBookingSchedule
+21/07/2019 08:51:17.710 - [INFO] - Making UPD Socket Call to TOR Server for method : getBookingSchedule
+21/07/2019 08:51:17.711 - [INFO] - Making UPD Socket Call to TOR Server for method : getBookingSchedule
+21/07/2019 08:51:17.711 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[MTLC1234]
+21/07/2019 08:51:17.712 - [INFO] - METHOD[getBookingSchedule]; PARAMETERS[OTWC1234]; STATUS[true]; SERVER_MESSAGE[{SEMINAR=[TORE110619]}]
+21/07/2019 08:51:17.714 - [INFO] - Making UPD Socket Call to TOR Server for method : bookEvent
+21/07/2019 08:51:17.714 - [INFO] - METHOD[getBookingSchedule]; PARAMETERS[OTWC1234]; STATUS[true]; SERVER_MESSAGE[{SEMINAR=[TORE110619]}]
+21/07/2019 08:51:17.715 - [INFO] - Making UPD Socket Call to TOR Server for method : bookEvent
+21/07/2019 08:51:17.715 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[MTLC1234]
+21/07/2019 08:51:17.717 - [INFO] - METHOD[bookEvent]; PARAMETERS[OTWC1234, TORE110619, SEMINAR]; STATUS[false]; SERVER_MESSAGE[TORE110619 is full.]
+21/07/2019 08:51:17.717 - [INFO] - METHOD[bookEvent]; PARAMETERS[OTWC1234, TORE110619, SEMINAR]; STATUS[false]; SERVER_MESSAGE[TORE110619 is full.]
+21/07/2019 08:51:17.722 - [INFO] - Making UPD Socket Call to MTL Server for method : getBookingSchedule
+21/07/2019 08:51:17.724 - [INFO] - Making UPD Socket Call to TOR Server for method : getBookingSchedule
+21/07/2019 08:51:17.724 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[MTLC1234]
+21/07/2019 08:51:17.726 - [INFO] - METHOD[getBookingSchedule]; PARAMETERS[OTWC1234]; STATUS[true]; SERVER_MESSAGE[{SEMINAR=[TORE110619]}]
+21/07/2019 08:51:17.726 - [INFO] - Making UPD Socket Call to TOR Server for method : bookEvent
+21/07/2019 08:51:17.728 - [INFO] - METHOD[bookEvent]; PARAMETERS[OTWC1234, TORE110619, SEMINAR]; STATUS[false]; SERVER_MESSAGE[TORE110619 is full.]
+21/07/2019 08:51:17.749 - [INFO] - Making UPD Socket Call to MTL Server for method : getBookingSchedule
+21/07/2019 08:51:17.752 - [INFO] - Making UPD Socket Call to TOR Server for method : getBookingSchedule
+21/07/2019 08:51:17.753 - [INFO] - Making UPD Socket Call to MTL Server for method : getBookingSchedule
+21/07/2019 08:51:17.754 - [INFO] - METHOD[getBookingSchedule]; PARAMETERS[OTWC1234]; STATUS[true]; SERVER_MESSAGE[{SEMINAR=[TORE110619]}]
+21/07/2019 08:51:17.755 - [INFO] - Making UPD Socket Call to TOR Server for method : getBookingSchedule
+21/07/2019 08:51:17.757 - [INFO] - METHOD[getBookingSchedule]; PARAMETERS[OTWC1234]; STATUS[true]; SERVER_MESSAGE[{SEMINAR=[TORE110619]}]
+21/07/2019 08:51:17.759 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[MTLC1234]
+21/07/2019 08:51:17.770 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+21/07/2019 08:51:17.773 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+21/07/2019 08:51:17.774 - [INFO] - Making UPD Socket Call to MTL Server for method : getBookingSchedule
+21/07/2019 08:51:17.780 - [INFO] - Making UPD Socket Call to TOR Server for method : getBookingSchedule
+21/07/2019 08:51:17.781 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+21/07/2019 08:51:17.785 - [INFO] - METHOD[getBookingSchedule]; PARAMETERS[OTWC1234]; STATUS[true]; SERVER_MESSAGE[{SEMINAR=[TORE110619]}]
+21/07/2019 08:51:17.786 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[MTLC1234]
+21/07/2019 08:51:17.792 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[MTLC1234]
+21/07/2019 08:51:17.795 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+21/07/2019 08:51:17.796 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]
+21/07/2019 08:51:17.803 - [INFO] - Received UDP Socket call for method[getBookingSchedule] with parameters[TORC1234]

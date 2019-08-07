@@ -1,0 +1,18 @@
+module IDL
+{
+	typedef sequence<string> ResultList;
+
+	interface EventManagementIDL
+	{
+	    boolean addEvent(in string managerID, in string eventID, in string eventType, in long bookingCapacity);
+	    boolean removeEvent(in string managerID, in string eventID, in string eventType);
+        ResultList listEventAvailability(in string managerID, in string eventType);
+
+	    ResultList bookEvent(in string customerId, in string eventId, in string eventType);
+	    ResultList cancelEvent(in string customerId, in string eventId, in string eventType);
+	    ResultList getBookingSchedule(in string customerId);
+	    ResultList swapEvent (in string customerId, in string newEventId, in string newEventType, in string oldEventId, in string oldEventType);
+
+		oneway void shutdown();
+	};
+};
